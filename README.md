@@ -57,4 +57,8 @@ Currently, I am focused on creating dynamic websites and learning the latest in 
 ---
 
 ## 📌 Pinned Repositories
-<!-- Pinned repos will go here later -->
+## 📌 Pinned Repositories
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)  
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)  
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical)](https://github.com/yourusername/project3)
