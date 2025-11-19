@@ -61,6 +61,11 @@ Currently, I am focused on creating dynamic websites and learning the latest in 
 
 [![GameHub](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment9-for-gaming-website&theme=radical)](https://github.com/morshedalom5675/assignment9-for-gaming-website)
 
+A modern **GameHub** platform with user authentication, game listing & dynamic UI.  
+**Live:** [https://your-live-link.com ](https://assignment-9-gamehub.web.app) 
+**Tech:** React, Firebase, MongoDB
+
+
 
 
 [![Assignment10](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment10-for-unknwon&theme=radical)](https://github.com/morshedalom5675/assignment10-for-unknwon)
