@@ -59,9 +59,9 @@ Currently, I am focused on creating dynamic websites and learning the latest in 
 
 ## 📌 Pinned Repositories
 
-## 📌 Pinned Repositories
+[![GameHub](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment9-for-gaming-website&theme=radical)](https://github.com/morshedalom5675/assignment9-for-gaming-website)
 
-[![GameHub](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=gameHub&theme=radical)](https://github.com/morshedalom5675/gameHub)  
+
 
 [![Assignment10](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment10-for-unknwon&theme=radical)](https://github.com/morshedalom5675/assignment10-for-unknwon)
  
