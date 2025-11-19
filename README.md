@@ -58,13 +58,34 @@ Currently, I am focused on creating dynamic websites and learning the latest in 
 
 
 ## 📌 Pinned Repositories
-
 [![GameHub](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment9-for-gaming-website&theme=radical)](https://github.com/morshedalom5675/assignment9-for-gaming-website)
+
+A modern **GameHub** platform with user authentication, game listing, and dynamic UI.  
+Users can browse games, view details, and enjoy responsive interactive design.
+
+**Features:** Authentication, Game Listing, Responsive UI, Firebase & MongoDB integration  
+**Live:** https://assignment-9-gamehub.web.app
+
 
 
 
 
 
 [![Assignment10](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment10-for-unknwon&theme=radical)](https://github.com/morshedalom5675/assignment10-for-unknwon)
- 
+A community-driven **issue tracking platform** where users can:
+- Post and track local issues  
+- Contribute and collaborate with others  
+- Engage with community-driven solutions  
+
+**Features:** Authentication, Issue Management, Contributions, MongoDB Database  
+
+
+[![Hero IO](https://github-readme-stats.vercel.app/api/pin/?username=morshedalom5675&repo=assignment8-for-hero-io&theme=radical)](https://github.com/morshedalom5675/assignment8-for-hero-io)
+
+An interactive **Hero.io project** built with modern web technologies, featuring a clean UI, responsive layout, and dynamic content rendering.  
+Designed to practice real-world frontend skills and improve hands-on development experience.
+
+**Features:** Responsive UI, Dynamic Rendering, Modern Frontend Workflow  
+
+
 
