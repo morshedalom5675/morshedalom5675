@@ -21,24 +21,22 @@ I am a passionate web developer dedicated to building high-quality, responsive w
 
 ---
 
-## 🛠 Skills
+## <p align="center">🛠 My Tech Stack</p>
 
-### **Frontend & Frameworks**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,daisyui" />
+### <p align="center">Frontend & Frameworks</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,bootstrap" />
 </p>
 
-### **Backend & Database**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+### <p align="center">Backend & Database</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,prisma" />
 </p>
 
-### **Tools & Technologies**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+### <p align="center">Tools & Technologies</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm,figma,netlify" />
 </p>
-
----
 
 ---
 
