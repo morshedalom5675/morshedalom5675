@@ -40,12 +40,25 @@ I am a passionate web developer dedicated to building high-quality, responsive w
 
 ---
 
-## 🌐 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morshedalom5675)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-website.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
+---
 
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/morshedalom5675" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/morshedalom5675/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/shekh.mojib.830159" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
+  </a>
+</p>
+
+---
 ---
 
 ## 📊 GitHub Stats
