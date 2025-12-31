@@ -44,30 +44,49 @@ I am a passionate web developer dedicated to building high-quality, responsive w
 
 <p align="center">
   <a href="https://github.com/morshedalom5675" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/morshedalom5675/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/shekh.mojib.830159" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
 
----
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morshedalom5675&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
   <img src="https://streak-stats.demolab.com/?user=morshedalom5675&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morshedalom5675&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 ---
+
+## 📌 Featured Projects
+
+### 1. 🚚 QuickDrop - Delivery Service Website
+A specialized platform for streamlined logistics and delivery management.
+- **Live Link:** [Coming Soon]
+- **Tech Stack:** React, Node.js, MongoDB
+
+### 2. 🎮 GameZone - Gaming Webpage
+An interactive gaming hub with advanced UI and database features.
+- **Live Link:** [Coming Soon]
+- **Tech Stack:** Next.js, Tailwind CSS, Firebase
+
+### 3. 🗺️ TourGuide - Tourism Website
+A complete tourism management system with booking functionalities.
+- **Live Link:** [Coming Soon]
+- **Tech Stack:** MERN Stack, DaisyUI
+
+---
+<p align="center">⭐️ From <b>Morshed Alom</b></p>
