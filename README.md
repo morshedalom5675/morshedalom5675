@@ -1,4 +1,4 @@
-![Developer Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Morshed%20Alom&fontSize=70&animation=fadeIn&fontAlignY=38)
+![Developer Banner](github-banner.png)
 
 # 👋 Hi, I'm Morshed Alom
 ### Full Stack Web Developer (MERN Stack)
