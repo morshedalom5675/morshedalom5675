@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/morshedalom5675/" target="_blank">
+  <a href="www.linkedin.com/in/morshed-alom" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;
