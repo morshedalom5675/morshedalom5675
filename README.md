@@ -73,9 +73,9 @@ I am a passionate web developer dedicated to building high-quality, responsive w
 
 ## 📌 Featured Projects
 
-### 1. 🚚 QuickDrop - Delivery Service Website
-A specialized platform for streamlined logistics and delivery management.
-- **Live Link:** [Coming Soon]
+### 1. . 🪴 CleanTrack - Solving community issuue Website
+A specialized website for CleanTrack issue-tracking community-platform
+- **Live Link:** [https://cleantrack-assignment.web.app/]
 - **Tech Stack:** React, Node.js, MongoDB
 
 ### 2. 🎮 GameHub - Gaming Webpage
