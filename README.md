@@ -78,14 +78,14 @@ A specialized platform for streamlined logistics and delivery management.
 - **Live Link:** [Coming Soon]
 - **Tech Stack:** React, Node.js, MongoDB
 
-### 2. 🎮 GameZone - Gaming Webpage
+### 2. 🎮 GameHub - Gaming Webpage
 An interactive gaming hub with advanced UI and database features.
-- **Live Link:** [Coming Soon]
-- **Tech Stack:** Next.js, Tailwind CSS, Firebase
+- **Live Link:** [https://assignment-9-gamehub.web.app]
+- **Tech Stack:** React, MongoDB, Tailwind CSS, Firebase
 
-### 3. 🗺️ TourGuide - Tourism Website
-A complete tourism management system with booking functionalities.
-- **Live Link:** [Coming Soon]
+### 3. 🗺️ eTuitionBD - Tuition Website
+A complete tuition management system with role based management.
+- **Live Link:** [https://assignment11-for-tuition.web.app/]
 - **Tech Stack:** MERN Stack, DaisyUI
 
 ---
